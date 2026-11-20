@@ -1,0 +1,8 @@
+/nologo
+/target:exe
+/out:"ManagedTests.exe"
+ManagedTests.cs
+/reference:"E:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\Managed\Assembly-CSharp.dll"
+/reference:"E:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\Managed\Assembly-CSharp-firstpass.dll"
+/reference:"E:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\Managed\UnityEngine.CoreModule.dll"
+/reference:"E:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\Managed\netstandard.dll"

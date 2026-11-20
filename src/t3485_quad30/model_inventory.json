@@ -1,0 +1,3218 @@
+[
+  {
+    "path": "/T-34-85/Particles/Grass Cutter Tracks (TVE) (TRAX)/Trax Cutter Obj",
+    "layer": 24,
+    "active": true,
+    "enabled": false,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "Trax Object Material",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/Particles/Grass Cutter Tracks (TVE) (TRAX) (1)/Trax Cutter Obj",
+    "layer": 24,
+    "active": true,
+    "enabled": false,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "Trax Object Material",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/gst_emission",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "LightBandExclusiveItem"
+    ],
+    "materials": [
+      {
+        "name": "GST lamps",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lamp_refractor001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "Glass",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_backgrill001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "diamond wire mesh",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_bowgun001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_cap001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_ddr_rearlight001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "SovCommon",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_driverhatch001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_hull004",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_inside_rad001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_rearbolts008",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_roadwheel002",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_shovel001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "SovCommon",
+        "shader": ""
+      },
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_track003",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34Track",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_track004",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34Track",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/lp_turret_cast001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/T34/HULL/TURRET/lp_canvas_a001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "SovCommon",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/T34/HULL/TURRET/lp_ddrbox001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/T34/HULL/TURRET/MANTLET/Sights and FCS/GPS/Reticle Mesh",
+    "layer": 16,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "ReticleMesh",
+      "PostMeshComp"
+    ],
+    "materials": [
+      {
+        "name": "Reticle Line",
+        "shader": ""
+      },
+      "external"
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_rig/T34/HULL/TURRET/MANTLET/Sights and FCS/GPS/Quad",
+    "layer": 16,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "PostMeshComp"
+    ],
+    "materials": [
+      {
+        "name": "opticMat",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/Geo/Soldier_body",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/Geo/Soldier_head",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      },
+      {
+        "name": "skin",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/swat:LeftFoot/hitzone left foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/hitzone left leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:LeftUpLeg/hitzone left upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:RightUpLeg/swat:RightLeg/swat:RightFoot/hitzone right foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:RightUpLeg/swat:RightLeg/hitzone right leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:RightUpLeg/hitzone right upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/swat:LeftHand/hitzone left hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/hitzone left forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/hitzone left arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/hitzone left shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:Jaw/hitzone jaw",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:LeftEye/hitzone left eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:RightEye/hitzone right eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone head",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brain",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brainstem",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/hitzone spinal 1 (spine above arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone neck",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone spinal 2",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/swat:RightHand/hitzone right hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/hitzone right forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/hitzone right arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/hitzone right shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spine2 (torso)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spinal 3 (spine below arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung R",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung L",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone heart",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/hitzone spine1",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/hitzone spinal 4",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/swat:Spine1/hitzone guts",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/swat:Spine/hitzone spinal 5",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/Driver/swat:Hips/hitzone hips",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/10mm rear plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/10mm sponson plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/20mm floor plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/20mm hull upper",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/20mm rear plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/45mm side plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/driver's hatch",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/firewall",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "UniformArmor",
+      "AarVisual"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/front glacis",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/hull lumps",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/Object080",
+    "layer": 0,
+    "active": false,
+    "enabled": false,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/shutters",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/spare track",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/splash board",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/T34_Hull_armour/tow hooks",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/ammunition storage",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor",
+      "DestructibleComponent",
+      "FlammableItem"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/Cylinder081",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor",
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/driver_periscope_a",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/driver_periscope_a001",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/DT",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/LH fuel tanks",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/RHH fuel tanks",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/HULL AAR/transmission",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor",
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 HULL FOLLOW/hull fighting compartment",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "Compartment"
+    ],
+    "materials": [
+      {
+        "name": "No Name",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/Geo/Soldier_body",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/Geo/Soldier_head",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      },
+      {
+        "name": "skin",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/swat:LeftFoot/hitzone left foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/hitzone left leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:LeftUpLeg/hitzone left upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:RightUpLeg/swat:RightLeg/swat:RightFoot/hitzone right foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:RightUpLeg/swat:RightLeg/hitzone right leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:RightUpLeg/hitzone right upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/swat:LeftHand/hitzone left hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/hitzone left forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/hitzone left arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/hitzone left shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:Jaw/hitzone jaw",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:LeftEye/hitzone left eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:RightEye/hitzone right eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone head",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brain",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brainstem",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/hitzone spinal 1 (spine above arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone neck",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone spinal 2",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/swat:RightHand/hitzone right hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/hitzone right forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/hitzone right arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/hitzone right shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spine2 (torso)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spinal 3 (spine below arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung R",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung L",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone heart",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/hitzone spine1",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/hitzone spinal 4",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/swat:Spine1/hitzone guts",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/swat:Spine/hitzone spinal 5",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Gunner/swat:Hips/hitzone hips",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/Geo/Soldier_body",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/Geo/Soldier_head",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      },
+      {
+        "name": "skin",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/swat:LeftFoot/hitzone left foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/hitzone left leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:LeftUpLeg/hitzone left upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:RightUpLeg/swat:RightLeg/swat:RightFoot/hitzone right foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:RightUpLeg/swat:RightLeg/hitzone right leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:RightUpLeg/hitzone right upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/swat:LeftHand/hitzone left hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/hitzone left forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/hitzone left arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/hitzone left shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:Jaw/hitzone jaw",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:LeftEye/hitzone left eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:RightEye/hitzone right eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone head",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brain",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brainstem",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/hitzone spinal 1 (spine above arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone neck",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone spinal 2",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/swat:RightHand/hitzone right hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/hitzone right forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/hitzone right arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/hitzone right shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spine2 (torso)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spinal 3 (spine below arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung R",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung L",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone heart",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/hitzone spine1",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/hitzone spinal 4",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/swat:Spine1/hitzone guts",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/swat:Spine/hitzone spinal 5",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Commander/swat:Hips/hitzone hips",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/Geo/Soldier_body",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/Geo/Soldier_head",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "dark grey FLIR",
+        "shader": ""
+      },
+      {
+        "name": "skin",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/swat:LeftFoot/hitzone left foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:LeftUpLeg/swat:LeftLeg/hitzone left leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:LeftUpLeg/hitzone left upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:RightUpLeg/swat:RightLeg/swat:RightFoot/hitzone right foot",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:RightUpLeg/swat:RightLeg/hitzone right leg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:RightUpLeg/hitzone right upleg",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/swat:LeftHand/hitzone left hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/swat:LeftForeArm/hitzone left forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/swat:LeftArm/hitzone left arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:LeftShoulder/hitzone left shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:Jaw/hitzone jaw",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:LeftEye/hitzone left eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/swat:RightEye/hitzone right eye",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone head",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brain",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/swat:Head/hitzone brainstem",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/swat:Neck1/hitzone spinal 1 (spine above arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone neck",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:Neck/hitzone spinal 2",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/swat:RightHand/hitzone right hand",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/swat:RightForeArm/hitzone right forearm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/swat:RightArm/hitzone right arm",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/swat:RightShoulder/hitzone right shoulder",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spine2 (torso)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone spinal 3 (spine below arms)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung R",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone lung L",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/swat:Spine2/hitzone heart",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/hitzone spine1",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/hitzone spinal 4",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/swat:Spine1/hitzone guts",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/swat:Spine/hitzone spinal 5",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "painted yellow",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/Loader/swat:Hips/hitzone hips",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "DestructibleComponent",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "see-through red",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/commander hatch",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/filter domes",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/gun barrel",
+    "layer": 8,
+    "active": false,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/loader hatch",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/mantlet",
+    "layer": 8,
+    "active": false,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/mantlet plate",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/Object079",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/periscope commander",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/periscope L",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/periscope R",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/periscopes",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/T34_Turret_armour/turret casting",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/TURRET AAR/elevation gear",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor",
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/TURRET AAR/periscope_1",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/TURRET AAR/periscope_002",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/TURRET AAR/periscope_003",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/TURRET AAR/ready rack",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "UniformArmor",
+      "DestructibleComponent",
+      "FlammableItem"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 TURRET FOLLOW/turret fighting compartment (child)",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "Compartment"
+    ],
+    "materials": [
+      {
+        "name": "No Name",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 GUN FOLLOW/gun barrel armor",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor",
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 GUN FOLLOW/mantlet armor",
+    "layer": 8,
+    "active": true,
+    "enabled": false,
+    "scripts": [
+      "VariableArmor"
+    ],
+    "materials": [
+      {
+        "name": "T34",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T-34-85 GUN FOLLOW/gun breech AAR",
+    "layer": 8,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "AarVisual",
+      "VariableArmor",
+      "DestructibleComponent"
+    ],
+    "materials": [
+      {
+        "name": "17 - Default",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/Headlamp/headlamp glow",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "white glowing",
+        "shader": "external"
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/additional convoy lights/ddr_march_light",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [
+      "LightBandExclusiveItem"
+    ],
+    "materials": [
+      {
+        "name": "DDR March Light",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_markings/RONDELS001",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "DDR emblem",
+        "shader": ""
+      }
+    ]
+  },
+  {
+    "path": "/T-34-85/T34_markings/turret_number_1",
+    "layer": 0,
+    "active": true,
+    "enabled": true,
+    "scripts": [],
+    "materials": [
+      {
+        "name": "nva_numbers",
+        "shader": ""
+      }
+    ]
+  }
+]
